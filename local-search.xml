@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hexo 教程</title>
+    <link href="/2025/02/02/hexo_tutorial/"/>
+    <url>/2025/02/02/hexo_tutorial/</url>
+    
+    <content type="html"><![CDATA[<p>本篇博客主要来记录<code>hexo</code>以及其<code>fluid</code>主题的配置教程。 \</p><h2 id=""><a href="#" class="headerlink" title=""></a></h2><h2 id="参考"><a href="#参考" class="headerlink" title="参考:"></a>参考:</h2><p><a href="https://hexo.io/zh-cn/">Hexo官方文档</a> <br><a href="https://fluid-dev.github.io/hexo-fluid-docs/start/">Fluid官方文档</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+      <category>网页</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>教程</tag>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
