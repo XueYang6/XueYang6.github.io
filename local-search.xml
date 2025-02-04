@@ -5,10 +5,10 @@
   
   <entry>
     <title>Hexo 教程</title>
-    <link href="/2025/02/02/hexo_tutorial/"/>
-    <url>/2025/02/02/hexo_tutorial/</url>
+    <link href="/2025/02/02/Hexo_tutorial/"/>
+    <url>/2025/02/02/Hexo_tutorial/</url>
     
-    <content type="html"><![CDATA[<p>本篇博客主要来记录<code>hexo</code>以及其<code>fluid</code>主题的配置教程。 \</p><h3 id="Hexo简要说明"><a href="#Hexo简要说明" class="headerlink" title="Hexo简要说明"></a>Hexo简要说明</h3><p>Hexo是一个基于<code>Node.js</code>的快速、简洁的静态博客生成器。它通过解析Markdown文件生成静态网页，适用于搭建个人博客、技术文档等。</p><h2 id="安装并初始化Hexo"><a href="#安装并初始化Hexo" class="headerlink" title="安装并初始化Hexo"></a>安装并初始化Hexo</h2><h2 id="遗留问题"><a href="#遗留问题" class="headerlink" title="遗留问题"></a>遗留问题</h2><ol><li>Github部署后，无法在edge浏览器上正常显示(chrome上无此问题)</li></ol><h2 id="参考"><a href="#参考" class="headerlink" title="参考:"></a>参考:</h2><p><a href="https://hexo.io/zh-cn/">Hexo官方文档</a> <br><a href="https://fluid-dev.github.io/hexo-fluid-docs/start/">Fluid官方文档</a></p>]]></content>
+    <content type="html"><![CDATA[<p>本篇博客主要来记录<code>hexo</code>以及其<code>fluid</code>主题的配置教程。 \</p><h3 id="Hexo简要说明"><a href="#Hexo简要说明" class="headerlink" title="Hexo简要说明"></a>Hexo简要说明</h3><p>Hexo是一个基于<code>Node.js</code>的快速、简洁的静态博客生成器。它通过解析Markdown文件生成静态网页，适用于搭建个人博客、技术文档等。h</p><h2 id="安装并初始化Hexo"><a href="#安装并初始化Hexo" class="headerlink" title="安装并初始化Hexo"></a>安装并初始化Hexo</h2><h2 id="遗留问题"><a href="#遗留问题" class="headerlink" title="遗留问题"></a>遗留问题</h2><ol><li>Github部署后，无法在edge浏览器上正常显示(chrome上无此问题)</li></ol><h2 id="参考"><a href="#参考" class="headerlink" title="参考:"></a>参考:</h2><p><a href="https://hexo.io/zh-cn/">Hexo官方文档</a> <br><a href="https://fluid-dev.github.io/hexo-fluid-docs/start/">Fluid官方文档</a></p>]]></content>
     
     
     <categories>
